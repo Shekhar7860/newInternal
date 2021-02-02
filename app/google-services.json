@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "927700262577",
+    "firebase_url": "https://sleep-solutionsapk-default-rtdb.firebaseio.com",
+    "project_id": "sleep-solutionsapk",
+    "storage_bucket": "sleep-solutionsapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927700262577:android:9de472f8db012fad5f8c90",
+        "android_client_info": {
+          "package_name": "com.adimn.neurosonica.ui.Neuro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927700262577-pirises0rb7jl76bkesi4b5tmu3a851l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2AOTfoD8Ywpt0XZgnWoL-b2Qf8dZmXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927700262577-pirises0rb7jl76bkesi4b5tmu3a851l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927700262577:android:f760a55571a344125f8c90",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927700262577-pirises0rb7jl76bkesi4b5tmu3a851l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2AOTfoD8Ywpt0XZgnWoL-b2Qf8dZmXxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927700262577-pirises0rb7jl76bkesi4b5tmu3a851l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

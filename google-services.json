@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111551202570",
+    "firebase_url": "https://mph-group.firebaseio.com",
+    "project_id": "mph-group",
+    "storage_bucket": "mph-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111551202570:android:516e6165f2eafa35f426f3",
+        "android_client_info": {
+          "package_name": "com.mphmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111551202570-h7t0j8qdli56qcsjblbjn1gk6102pvsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClx6kjYhBqT2MCPD56mt0aMT5Yg_gn7C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111551202570-h7t0j8qdli56qcsjblbjn1gk6102pvsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
